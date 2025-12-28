@@ -1,4 +1,4 @@
-# Basic Transformer Implementation
+# Transformer Implementation
 
 This repository contains a **basic implementation of the Transformer model** provided in the Jupyter Notebook `basic_Transformer.ipynb`. The notebook is intended for educational purposes and demonstrates the core concepts behind the Transformer architecture in a clear and minimal way.
 
